@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @robuconstantinrobert
+- 👀 I’m interested in programming and game development
+- 🌱 I’m currently learning C++, Java and C#
+- 💞️ I’m looking to collaborate on any project
